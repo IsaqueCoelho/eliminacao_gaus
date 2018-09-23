@@ -7,9 +7,9 @@ Construção de um WebSite que calcule matrizes através do método de Gauss, co
 ## Tecnologias
 
 ### Front-end
-*HTML5 *CSS *Javascript.
-
-* Item1 *Item 2
+* HTML5.
+* CSS.
+* Javascript.
 
 ### Back-end
 *PHP.
