@@ -4,7 +4,7 @@ Construção de um WebSite que calcule matrizes através do método de Gauss, co
 ## Tecnologias
 
 ### Front-end
-HTML5, CSS, Javascript
+HTML5, CSS e Javascript.
 
 ### Back-end
 PHP.
