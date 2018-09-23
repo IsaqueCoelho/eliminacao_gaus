@@ -12,7 +12,7 @@ Construção de um WebSite que calcule matrizes através do método de Gauss, co
 * Javascript.
 
 ### Back-end
-*PHP.
+PHP.
 
 ## Ferramentas
 
